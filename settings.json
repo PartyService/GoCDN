@@ -1,0 +1,8 @@
+{
+    "siteName": "GoCDN",
+    "version" : "production",
+    "client_id": "", 
+    "client_secret": "",
+    "refresh_token": "",
+    "root": ""
+}
